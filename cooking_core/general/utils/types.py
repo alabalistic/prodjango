@@ -1,3 +1,5 @@
+# noqa: A005
+
 from pydantic import constr
 from pydantic.types import _registered
 
